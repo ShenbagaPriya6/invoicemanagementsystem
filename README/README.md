@@ -83,6 +83,7 @@ Bill_item table:
 Instock table:
 
 ![](./image5.png)
+
 Create the above tables
 
 **3. Configure the Database Connection**
@@ -183,6 +184,7 @@ String password = \"\*\*\*\*\*\";
 ![](./image15.png)
 
 ![](./image16.png)
+
 **6.View All Paid and Unpaid Invoices**
 
 -   Filter invoices based on payment status (paid or unpaid).
