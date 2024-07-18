@@ -7,7 +7,7 @@ designed to help businesses manage their invoices, customer details, and
 stock items efficiently. Built with a robust stack of technologies, it
 ensures a seamless experience for managing your business operations.
 
-![](.README/image1.png)
+![](README/image1.png)
 
 **Features**
 
