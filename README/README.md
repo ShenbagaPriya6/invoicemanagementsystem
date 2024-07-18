@@ -7,8 +7,7 @@ designed to help businesses manage their invoices, customer details, and
 stock items efficiently. Built with a robust stack of technologies, it
 ensures a seamless experience for managing your business operations.
 
-![](./image1.png){width="6.268055555555556in"
-height="2.7909722222222224in"}
+![](./image1.png)
 
 **Features**
 
@@ -71,24 +70,19 @@ USE invoicemanagement;
 
 Customer table:
 
-![](./image2.png){width="6.250541338582678in"
-height="1.7084809711286089in"}
+![](./image2.png)
 
 Invoice table:
 
-![](./image3.png){width="6.268055555555556in"
-height="1.9569444444444444in"}
+![](./image3.png)
 
 Bill_item table:
 
-![](./image4.png){width="6.268055555555556in"
-height="1.7513888888888889in"}
+![](./image4.png)
 
 Instock table:
 
-![](./image5.png){width="6.268055555555556in"
-height="1.3381944444444445in"}
-
+![](./image5.png)
 Create the above tables
 
 **3. Configure the Database Connection**
@@ -141,9 +135,7 @@ String password = \"\*\*\*\*\*\";
 -   Price of the item, Invoice total and subtotal are calculated
     Dynamically using JavaScript
 
-> ![](./image6.png){width="6.268055555555556in"
-> height="2.951388888888889in"}![](./image7.png){width="6.268055555555556in"
-> height="0.94375in"}
+> ![](./image6.png)
 
 **2.Bills Placed Between Particular Dates**
 
@@ -152,11 +144,9 @@ String password = \"\*\*\*\*\*\";
 -   Provides a list of invoices with details such as invoice ID,
     customer information, and amount.
 
-![](./image8.png){width="6.268055555555556in"
-height="2.6979166666666665in"}
+![](./image8.png)
 
-![](./image9.png){width="6.268055555555556in"
-height="2.9784722222222224in"}
+![](./image9.png)
 
 **3. Get Invoice Details**
 
@@ -167,13 +157,11 @@ height="2.9784722222222224in"}
 
 -   Download the Invoice
 
-![](./image10.png){width="6.268055555555556in" height="2.54375in"}
+![](./image10.png)
 
-![](./image11.png){width="6.268055555555556in"
-height="6.179166666666666in"}
+![](./image11.png)
 
-![](./image12.png){width="6.268055555555556in"
-height="5.456944444444445in"}
+![](./image12.png)
 
 **4.Get Item Details**
 
@@ -181,10 +169,9 @@ height="5.456944444444445in"}
 
 -   Shows quantity available, rate, and other relevant information.
 
-![](./image13.png){width="5.3125in" height="2.0in"}
+![](./image13.png)
 
-![](./image14.png){width="6.268055555555556in"
-height="5.904166666666667in"}
+![](./image14.png)
 
 **5.Get Customer Details**
 
@@ -193,11 +180,9 @@ height="5.904166666666667in"}
 
 -   Shows total paid and unpaid amounts for the customer.
 
-![](./image15.png){width="6.268055555555556in"
-height="2.592361111111111in"}
+![](./image15.png)
 
-![](./image16.png){width="6.268055555555556in" height="6.275in"}
-
+![](./image16.png)
 **6.View All Paid and Unpaid Invoices**
 
 -   Filter invoices based on payment status (paid or unpaid).
@@ -205,11 +190,9 @@ height="2.592361111111111in"}
 -   Lists invoices with basic details like invoice ID, customer details,
     and payment status.
 
-![](./image17.png){width="6.268055555555556in"
-height="5.789583333333334in"}
+![](./image17.png)
 
-![](./image18.png){width="6.268055555555556in"
-height="2.4611111111111112in"}
+![](./image18.png)
 
 **7.Add Stock**
 
@@ -217,13 +200,11 @@ height="2.4611111111111112in"}
 
 -   Requires entering item details such as name, quantity, and rate.
 
-![](./image19.png){width="6.268055555555556in"
-height="3.5416666666666665in"}
+![](./image19.png)
 
 Quantity get updated in the database
 
-![](./image20.png){width="4.417283464566929in"
-height="1.5210454943132108in"}
+![](./image20.png)
 
 **8.Unpaid to Paid Invoices**
 
@@ -233,14 +214,11 @@ height="1.5210454943132108in"}
 
 -   Updates the payment in Customer table.
 
-![](./image21.png){width="6.268055555555556in"
-height="3.0479166666666666in"}
+![](./image21.png)
 
-![](./image22.png){width="6.268055555555556in"
-height="1.5743055555555556in"}
+![](./image22.png)
 
-![](./image23.png){width="6.268055555555556in"
-height="0.6840277777777778in"}
+![](./image23.png)
 
 **Contact**
 
