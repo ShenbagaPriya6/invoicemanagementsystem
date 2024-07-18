@@ -118,7 +118,7 @@ String password = \"\*\*\*\*\*\";
 -   Open your web browser and navigate to
     <http://localhost:8080/invoicemanagement>.
 
-**Modules Decription:**
+**Modules Description:**
 
 **1. Add Invoice**
 
