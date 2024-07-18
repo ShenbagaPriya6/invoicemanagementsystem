@@ -70,19 +70,19 @@ USE invoicemanagement;
 
 Customer table:
 
-![](.README/image2.png)
+![](README/image2.png)
 
 Invoice table:
 
-![](.README/image3.png)
+![](README/image3.png)
 
 Bill_item table:
 
-![](.README/image4.png)
+![](README/image4.png)
 
 Instock table:
 
-![](.README/image5.png)
+![](README/image5.png)
 
 Create the above tables
 
@@ -136,8 +136,8 @@ String password = \"\*\*\*\*\*\";
 -   Price of the item, Invoice total and subtotal are calculated
     Dynamically using JavaScript
 
-> ![](.README/image6.png)
-> ![](.README/image7.png)
+> ![](README/image6.png)
+> ![](README/image7.png)
 **2.Bills Placed Between Particular Dates**
 
 -   Select a specific date to see all invoices issued on that day.
@@ -145,11 +145,9 @@ String password = \"\*\*\*\*\*\";
 -   Provides a list of invoices with details such as invoice ID,
     customer information, and amount.
 
-![](./image8.png){width="6.268055555555556in"
-height="2.6979166666666665in"}
+![](README/image8.png)
 
-![](./image9.png){width="6.268055555555556in"
-height="2.9784722222222224in"}
+![](README/image9.png)
 
 **3. Get Invoice Details**
 
@@ -160,13 +158,11 @@ height="2.9784722222222224in"}
 
 -   Download the Invoice
 
-![](./image10.png){width="6.268055555555556in" height="2.54375in"}
+![](README/image10.png)
 
-![](./image11.png){width="6.268055555555556in"
-height="6.179166666666666in"}
+![](README/image11.png)
 
-![](./image12.png){width="6.268055555555556in"
-height="5.456944444444445in"}
+![](README/image12.png)
 
 **4.Get Item Details**
 
@@ -174,10 +170,8 @@ height="5.456944444444445in"}
 
 -   Shows quantity available, rate, and other relevant information.
 
-![](./image13.png){width="5.3125in" height="2.0in"}
-
-![](./image14.png){width="6.268055555555556in"
-height="5.904166666666667in"}
+![](README/image13.png)
+![](README/image14.png)
 
 **5.Get Customer Details**
 
@@ -186,11 +180,8 @@ height="5.904166666666667in"}
 
 -   Shows total paid and unpaid amounts for the customer.
 
-![](./image15.png){width="6.268055555555556in"
-height="2.592361111111111in"}
-
-![](./image16.png){width="6.268055555555556in" height="6.275in"}
-
+![](README/image15.png)
+![](README/image16.png)
 **6.View All Paid and Unpaid Invoices**
 
 -   Filter invoices based on payment status (paid or unpaid).
@@ -198,11 +189,8 @@ height="2.592361111111111in"}
 -   Lists invoices with basic details like invoice ID, customer details,
     and payment status.
 
-![](./image17.png){width="6.268055555555556in"
-height="5.789583333333334in"}
-
-![](./image18.png){width="6.268055555555556in"
-height="2.4611111111111112in"}
+![](README/image17.png)
+![](README/image18.png)
 
 **7.Add Stock**
 
@@ -210,13 +198,10 @@ height="2.4611111111111112in"}
 
 -   Requires entering item details such as name, quantity, and rate.
 
-![](./image19.png){width="6.268055555555556in"
-height="3.5416666666666665in"}
-
+![](README/image19.png)
 Quantity get updated in the database
 
-![](./image20.png){width="4.417283464566929in"
-height="1.5210454943132108in"}
+![](README/image20.png)
 
 **8.Unpaid to Paid Invoices**
 
@@ -226,15 +211,10 @@ height="1.5210454943132108in"}
 
 -   Updates the payment in Customer table.
 
-![](./image21.png){width="6.268055555555556in"
-height="3.0479166666666666in"}
+![](README/image21.png)
+![](README/image22.png)
 
-![](./image22.png){width="6.268055555555556in"
-height="1.5743055555555556in"}
-
-![](./image23.png){width="6.268055555555556in"
-height="0.6840277777777778in"}
-
+![](README/image23.png)
 **Contact**
 
 **For any questions or support, please contact:**
