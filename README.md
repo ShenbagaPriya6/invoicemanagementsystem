@@ -134,7 +134,7 @@ String password = \"\*\*\*\*\*\";
     table.
 
 -   Price of the item, Invoice total and subtotal are calculated
-    Dynamically using JavaScript
+    dynamically using JavaScript
 
 > ![](README/image6.png)
 > ![](README/image7.png)
