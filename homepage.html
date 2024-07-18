@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" type="image/x-icon" href="https://img.icons8.com/?size=48&id=13222&format=png">
+    <title>Shop Invoice Management</title>
+    <style>
+        html, body {
+            height: 100vh;
+            margin: 0;
+            font-family: Arial, sans-serif;
+            background-color: #f0f8ff;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            overflow: hidden;
+        }
+        .container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            width: 100%;
+            height: 100%;
+        }
+        .left, .right {
+            width: 25%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            align-items: center;
+            padding: 20px;
+        }
+        .center {
+            width: 50%;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+        }
+        .buttons {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+        }
+        button {
+            width: 350px;
+            padding: 15px;
+            font-size: 16px;
+            cursor: pointer;
+            border: none;
+            border-radius: 5px;
+            background-color: #2b5279;
+            color: white;
+            transition: background-color 0.3s, transform 0.3s;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        button:hover {
+            background-color: #122d48;
+            transform: scale(1.05);
+        }
+        img {
+            max-width: 80%;
+            height: auto;
+            transition: transform 0.5s, opacity 0.5s;
+            border-radius: 10px;
+            box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+        }
+        .center:hover img {
+            transform: scale(1.05);
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="left">
+            <div class="buttons">
+                <button onclick="location.href='addInvoice.jsp'">Add Invoice</button>
+                <button onclick="location.href='billsOnDate.jsp'">Invoices on Particular Date</button>
+                <button onclick="location.href='getInvoiceDetails.jsp'">Get Invoices</button>
+                <button onclick="location.href='getItemDetails.jsp'">Get Item Details</button>
+                <button onclick="location.href='getCustomerBalance.jsp'">Get Customer Details</button>
+            </div>
+        </div>
+        <div class="center">
+            <img src="https://www.pymnts.com/wp-content/uploads/2015/11/invoice.jpg" alt="Shop Logo">
+        </div>
+        <div class="right">
+            <div class="buttons">
+                <button onclick="location.href='getInvoices.jsp'">Get Paid/Unpaid Invoices</button>
+                <button onclick="location.href='addStock.jsp'">Update Stock</button>
+                <button onclick="location.href='unpaidToPaid.jsp'">Unpaid to Paid</button>
+                <button onclick="location.href='addCustomer.jsp'">Add New Customer</button>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
