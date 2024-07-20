@@ -182,6 +182,7 @@ String password = \"\*\*\*\*\*\";
 
 ![](README/image15.png)
 ![](README/image16.png)
+
 **6.View All Paid and Unpaid Invoices**
 
 -   Filter invoices based on payment status (paid or unpaid).
@@ -215,6 +216,7 @@ Quantity get updated in the database
 ![](README/image22.png)
 
 ![](README/image23.png)
+
 **Contact**
 
 **For any questions or support, please contact:**
