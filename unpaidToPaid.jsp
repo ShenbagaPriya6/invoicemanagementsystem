@@ -11,7 +11,6 @@
     <link rel="icon" type="image/x-icon" href="https://img.icons8.com/?size=48&id=13222&format=png">
     <title>Unpaid to Paid</title>
     <style>
-        /* Your existing styles */
         body {
             font-family: Arial, sans-serif;
             background-color: #f0f8ff; 
